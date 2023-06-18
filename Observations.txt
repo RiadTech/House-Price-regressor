@@ -1,0 +1,2 @@
+- change price to dollars format
+- Deal with the size column
